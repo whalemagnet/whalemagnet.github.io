@@ -17,5 +17,5 @@ Work has commenced on whalemagnet.com we intend to build a community of ocean ad
     - Sharing details of exciting projects aimed to improve our ocean environment
 
 
-<img src="/assets/images/build%20a%20whale.jpg.jpg" alt="Build a Whale" width="400"/>
+<img src="/assets/images/build%20a%20whale.jpg" alt="Build a Whale" width="400"/>
 
