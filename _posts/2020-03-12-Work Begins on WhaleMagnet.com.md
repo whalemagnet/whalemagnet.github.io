@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Whale Magnets Begin Work on WhaleMagnet.com"
+title: "Work Begins on WhaleMagnet.com"
 date: 2020-03-12
 ---
 
